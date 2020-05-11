@@ -95,7 +95,7 @@ OCR (англ. optical character recognition, оптическое распоз�
 
 Где заканчивается слово, где начинается новое? 
 
-![](https://github.com/alexdyul/Transkribus/blob/master/Japan.png)
+![](https://github.com/alexdyul/Transkribus/blob/master/japan.png)
 
 
 #### Старые/уникальные шрифты
