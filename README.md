@@ -14,15 +14,15 @@ OCR (англ. optical character recognition, оптическое распоз�
 
 #### Таким компьютер видит Авраама Линкольна 
 
-![]()
+![](https://github.com/alexdyul/Transkribus/blob/master/Lincoln.png)
 
 #### На этой картинке не так все страшно
 
-![]()
+![](https://github.com/alexdyul/Transkribus/blob/master/Elefant.png)
 
 #### Как работает компьютерное зрение 
 
-![]()
+![](https://github.com/alexdyul/Transkribus/blob/master/Comp_vision.gif)
 
 Возвращаемся к OCR
 
