@@ -1,2 +1,2 @@
 # Transkribus
-![](//drive.google.com/open?id=129BqkvDCe6vuqNyxzf-riWa58Rme_koC)
+![www](https://github.com/alexdyul/Transkribus/blob/master/Google_H.gif)
