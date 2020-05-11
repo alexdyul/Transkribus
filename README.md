@@ -34,3 +34,13 @@
 
 
 [Образцы текста + инструкция на русском](https://drive.google.com/open?id=14b0I4bPHHPkkY_uN2V_S-baC3G404SYp)
+
+Источники:
+[Системный блокъ. Из пикселей — в буквы: как работает распознавание текста](https://sysblok.ru/knowhow/iz-pikselej-v-bukvy-kak-rabotaet-raspoznavanie-teksta)
+
+[Wikipedia. Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
+
+[Abbyy. Полный набор технологий распознавания](https://www.abbyy.com/ru-ru/ocr-sdk/key-features/ocr)
+
+
+
