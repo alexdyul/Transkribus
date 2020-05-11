@@ -2,6 +2,9 @@
 
 ## Технологии распознавания текста (как работает OCR) 
 
+#### Портативный сканер
+
+![](https://github.com/alexdyul/Transkribus/blob/master/Portable_scanner.gif)
 
 
 [FineReader XIX](https://www.abbyy.com/ru-ru/ocr-sdk/key-features/ocr) — для старых документов, книг и газет, напечатанных с 1600 по 1937 годы на английском, французском, немецком, итальянском и испанском языках старыми шрифтами, среди которых Fraktur, Schwabacher и Gothic 
@@ -21,11 +24,11 @@
 
 
 
-### [Google Lens](https://lens.google.com). Рукописный текст
+#### [Google Lens](https://lens.google.com). Рукописный текст
 
 ![](https://github.com/alexdyul/Transkribus/blob/master/Google_H.gif)
 
-### Google Lens. Печатный текст
+#### Google Lens. Печатный текст
 
 ![](https://github.com/alexdyul/Transkribus/blob/master/Google_T.gif)
 
